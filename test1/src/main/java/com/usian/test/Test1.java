@@ -8,6 +8,7 @@ package com.usian.test;
 public class Test1 {
     //修改test1
     public static void main(String[] args) {
-
+         //github端其他同事修改
+        System.out.println("师姐你真棒");
     }
 }
